@@ -29,7 +29,7 @@
 }
 
 .logo_place_header {
-  background: url("/images/logo/logo_place_header.svg");
+  background: url("./images/logo/logo_place_header.svg");
   position: absolute;
   margin: 0;
   top: 30px;
@@ -282,7 +282,7 @@
 }
 
 .kaufman__triangle {
-  background: url("/images/kaufman-triangle.svg");
+  background: url("./images/kaufman-triangle.svg");
   position: absolute;
   top: 0;
   right: -210px;
@@ -337,7 +337,7 @@
 
 .logo_place_footer {
   margin-right: 0;
-  background: url("/images/logo/logo_place_footer.svg");
+  background: url("./images/logo/logo_place_footer.svg");
 }
 
 .footer__author {
